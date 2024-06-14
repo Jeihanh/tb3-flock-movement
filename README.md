@@ -31,7 +31,7 @@ How to run the code:
 - To run the code, open the terminal and write the following command:
 
     ```bash
-    $ rosrun test TurtleBot3_final_code.py
+    $ rosrun test tb3_flock.py
     ```
 
 - This is possible because we created our own package in the catkin workspace.
